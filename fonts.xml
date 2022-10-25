@@ -27,48 +27,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:8:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="6">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="6">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="8">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="8">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="6">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:8:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="6" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="6" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="8" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="8" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="6" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:8:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="6" outline="NORMAL">
 			</Font>
@@ -115,48 +113,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:9:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="7">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="7">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="9">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="9">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="7">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:9:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="7" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="7" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="9" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="9" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="7" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:9:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="7" outline="NORMAL">
 			</Font>
@@ -203,48 +199,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:10:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="8">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="8">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="10">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="10">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="8">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:10:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="8" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="8" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="10" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="10" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="8" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:10:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="8" outline="NORMAL">
 			</Font>
@@ -291,48 +285,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:11:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="9">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="9">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="11">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="11">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="9">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:11:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="9" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="9" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="11" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="11" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="9" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:11:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="9" outline="NORMAL">
 			</Font>
@@ -379,48 +371,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:12:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="10">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="10">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="12">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="12">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="10">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:12:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="10" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="10" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="12" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="12" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="10" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:12:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="10" outline="NORMAL">
 			</Font>
@@ -467,48 +457,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:13:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="11">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="11">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="13">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="13">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="11">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:13:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="11" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="11" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="13" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="13" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="11" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:13:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="11" outline="NORMAL">
 			</Font>
@@ -555,48 +543,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:14:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="12">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="12">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="14">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="14">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="12">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:14:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="12" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="12" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="14" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="14" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="12" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:14:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="12" outline="NORMAL">
 			</Font>
@@ -643,48 +629,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:15:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="13">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="13">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="15">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="15">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="13">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:15:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="13" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="13" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="15" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="15" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="13" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:15:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="13" outline="NORMAL">
 			</Font>
@@ -731,48 +715,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:16:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="14">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="14">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="16">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="16">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="14">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:16:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="14" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="14" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="16" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="16" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="14" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:16:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="14" outline="NORMAL">
 			</Font>
@@ -819,48 +801,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:17:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="15">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="15">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="17">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="17">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="15">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:17:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="15" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="15" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="17" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="17" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="15" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:17:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="15" outline="NORMAL">
 			</Font>
@@ -907,48 +887,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:18:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="16">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="16">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="18">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="18">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="16">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:18:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="16" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="16" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="18" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="18" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="16" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:18:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="16" outline="NORMAL">
 			</Font>
@@ -995,48 +973,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:19:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="17">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="17">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="19">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="19">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="17">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:19:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="17" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="17" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="19" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="19" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="17" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:19:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="17" outline="NORMAL">
 			</Font>
@@ -1083,48 +1059,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:20:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="18">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="18">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="20">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="20">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="18">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:20:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="18" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="18" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="20" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="20" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="18" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:20:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="18" outline="NORMAL">
 			</Font>
@@ -1171,48 +1145,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:21:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="19">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="19">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="21">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="21">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="19">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:21:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="19" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="19" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="21" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="21" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="19" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:21:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="19" outline="NORMAL">
 			</Font>
@@ -1259,48 +1231,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:22:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="20">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="20">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="22">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="22">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="20">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:22:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="20" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="20" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="22" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="22" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="20" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:22:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="20" outline="NORMAL">
 			</Font>
@@ -1347,48 +1317,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:23:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="21">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="21">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="23">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="23">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="21">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:23:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="21" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="21" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="23" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="23" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="21" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:23:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="21" outline="NORMAL">
 			</Font>
@@ -1435,48 +1403,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:24:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="22">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="22">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="24">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="24">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="22">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:24:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="22" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="22" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="24" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="24" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="22" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:24:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="22" outline="NORMAL">
 			</Font>
@@ -1523,48 +1489,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:25:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="23">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="23">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="25">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="25">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="23">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:25:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="23" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="23" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="25" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="25" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="23" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:25:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="23" outline="NORMAL">
 			</Font>
@@ -1611,48 +1575,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:26:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="24">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="24">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="26">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="26">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="24">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:26:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="24" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="24" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="26" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="26" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="24" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:26:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="24" outline="NORMAL">
 			</Font>
@@ -1699,48 +1661,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:27:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="25">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="25">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="27">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="27">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="25">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:27:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="25" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="25" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="27" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="27" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="25" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:27:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="25" outline="NORMAL">
 			</Font>
@@ -1787,48 +1747,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:28:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="26">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="26">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="28">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="28">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="26">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:28:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="26" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="26" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="28" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="28" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="26" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:28:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="26" outline="NORMAL">
 			</Font>
@@ -1875,48 +1833,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:29:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="27">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="27">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="29">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="29">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="27">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:29:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="27" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="27" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="29" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="29" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="27" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:29:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="27" outline="NORMAL">
 			</Font>
@@ -1963,48 +1919,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:30:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="28">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="28">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="30">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="30">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="28">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:30:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="28" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="28" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="30" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="30" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="28" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:30:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="28" outline="NORMAL">
 			</Font>
@@ -2051,48 +2005,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:31:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="29">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="29">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="31">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="31">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="29">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:31:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="29" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="29" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="31" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="31" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="29" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:31:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="29" outline="NORMAL">
 			</Font>
@@ -2139,48 +2091,46 @@
 	<FontFamily name="OysiUI_Fonts_frizqt:32:0:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="30">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="korean">
 			<Font font="Fonts/2002.TTF" height="30">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="simplifiedchinese">
 			<Font font="Fonts/ARKai_C.ttf" height="32">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="traditionalchinese">
 			<Font font="Fonts/arheiuhk_bd.TTF" height="32">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 		<Member alphabet="russian">
 			<Font font="Fonts/FRIZQT___CYR.TTF" height="30">
+				<Shadow>
+					<Color r="0" g="0" b="0" />
+					<Offset x="1" y="-1" />
+				</Shadow>
 			</Font>
 		</Member>
 	</FontFamily>
 	<FontFamily name="OysiUI_Fonts_frizqt:32:1:0" virtual="true">
-		<Member alphabet="roman">
-			<Font font="Fonts/FRIZQT__.TTF" height="30" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="korean">
-			<Font font="Fonts/2002.TTF" height="30" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="simplifiedchinese">
-			<Font font="Fonts/ARKai_C.ttf" height="32" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="traditionalchinese">
-			<Font font="Fonts/arheiuhk_bd.TTF" height="32" outline="NORMAL">
-			</Font>
-		</Member>
-		<Member alphabet="russian">
-			<Font font="Fonts/FRIZQT___CYR.TTF" height="30" outline="NORMAL">
-			</Font>
-		</Member>
-	</FontFamily>
-	<FontFamily name="OysiUI_Fonts_frizqt:32:1:1" virtual="true">
 		<Member alphabet="roman">
 			<Font font="Fonts/FRIZQT__.TTF" height="30" outline="NORMAL">
 			</Font>
