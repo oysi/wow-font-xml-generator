@@ -1,4 +1,4 @@
 
-# wow-font-xml-generator
+# wow-xml-font-generator
 
 Generates xml
